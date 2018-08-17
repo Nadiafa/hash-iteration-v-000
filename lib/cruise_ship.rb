@@ -17,6 +17,6 @@ winner = ""
       winner = v
     end
   end
-end
 
 winner
+end
