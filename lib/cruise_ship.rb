@@ -13,5 +13,5 @@ def select_winner(passengers)
     if k == "suite_a" && v.start_with("A")
       winner = k 
     end
-  
+  end
 end
