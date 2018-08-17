@@ -11,7 +11,7 @@ def select_winner(passengers)
   winner = ""
   passengers.each do |k, v|
     if k == :suite_a && v.start_with?("A")
-      winner = k 
+      winner = v
     end
   end
 end
